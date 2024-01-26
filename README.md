@@ -1,7 +1,7 @@
 # CONVERTER UPPER
 🐱‍👤USE O JAVASCRIPT PARA TRANSFORMAR SEU TEXTO EM UPPER, LOWER OU MISTO.
 
-<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br> <br>
 <img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
