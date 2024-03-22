@@ -24,28 +24,7 @@ O objetivo deste projeto é oferecer uma ferramenta prática para converter text
    - Ao clicar neste botão, o texto convertido é copiado para a área de transferência do usuário.
    - Uma mensagem de confirmação é exibida temporariamente para indicar que o texto foi copiado com sucesso.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/CONVERTER-PARA-UPPER-VOLUME-2.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd CONVERTER-PARA-UPPER-VOLUME-2
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip CONVERTER-PARA-UPPER-VOLUME-2.zip
-```
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. **Inserir Texto:**
    - Digite ou cole o texto que deseja converter no campo de entrada.
 
@@ -66,9 +45,9 @@ unzip CONVERTER-PARA-UPPER-VOLUME-2.zip
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
